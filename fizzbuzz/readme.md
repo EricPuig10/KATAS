@@ -16,9 +16,9 @@
 
 ## Calculator Kata
 
-- Haz una función que sume un número con al total de la calculadora.
-- Haz una función que reste un número al total de la calculadora.
-- Haz una función que multiplique por un numero el total.
+- Haz una función que sume un número con al total de la calculadora. &#10004
+- Haz una función que reste un número al total de la calculadora. &#10004
+- Haz una función que multiplique por un numero el total. &#10004
 - Haz una función que divida por un numero el total.
 - Haz una función que al pasarle un número calcule el % del total y lo modifique con el resultado.
 - Haz una función que al pasarle un numero nos indique si es par.
