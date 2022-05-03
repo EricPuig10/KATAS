@@ -1,3 +1,4 @@
+## FizzBuzz Kata
 - Escribe un programa/función que, como parámetro, reciba un número del 1 al 100 y devuelva: DONE
     - Para múltiplos de tres, devuelva una string: `Fizz` en lugar del número 
         
@@ -12,3 +13,15 @@
     
 - Escribe una función que reciba un array de objetos ‘usuario’ que tenga el nombre y la edad: DONE
     - la función debe devolver otro array con los usuarios mayores de edad  
+
+## Calculator Kata
+
+- Haz una función que sume un número con al total de la calculadora.
+- Haz una función que reste un número al total de la calculadora.
+- Haz una función que multiplique por un numero el total.
+- Haz una función que divida por un numero el total.
+- Haz una función que al pasarle un número calcule el % del total y lo modifique con el resultado.
+- Haz una función que al pasarle un numero nos indique si es par.
+- Haz una función que al pasarle dos números devuelva el mayor.
+- Haz una función que al pasarle un array de números ponga el resultado de la suma de todos ellos en el total.
+- Haz una función que al pasarle un lista de enteros List<int> devuelva otra lista que tenga solamente los números mayores o iguales a 5.
