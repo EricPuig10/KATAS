@@ -1,4 +1,4 @@
-# FOOD PROJECT
+# KATAS
 
 ## 📜 BRIEFING
 This are some katas test done in factoriaf5 bootcamp.
